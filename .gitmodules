@@ -1,4 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/bastienchassagnol/bastienchassagnol.r-universe.dev
 	branch = HEAD
+[submodule "DeCovarT"]
+	path = DeCovarT
+	url = https://github.com/bastienchassagnol/DeCovarT
+[submodule "RGMMBench"]
+	path = RGMMBench
+	url = https://github.com/bastienchassagnol/RGMMBench
